@@ -1,0 +1,39 @@
+WHY
+High efficiency named as a reason for using EBIT, specifically narrow charge state distrobutions and less ions lost "in many charge states"
+	are there charge states where more ions are lost? Why have this stipulation?
+
+Fast and Variable breeding times (~10ms to 1s)
+Low contamination
+Variable ejected ion distributions, extraction pulse widths (~20us up to ~100ms)
+
+WORKING PRINCIPLES
+Produce & trap highly charged ions w/ high-current density beam
+Primary Components: e-gun, trap + "strong" magnet, e-collector
+Magnetic field: electron-beam compression & Ionization by electron impact
+axial ion confinement provided by potential well (trap electrodes)
+radial ion confinement by the electron-beam space-charge potential
+
+## How is radius of e-beam compressed, what is current density, and effective space-charge potential
+## What is the potential of the source held at, and how are trap values set
+## Is magnet's only purpose to confine the electrons, what is it's effect on resulting emittance? Is magnetic pressure on ions significant to their temperature here? Maybe the collision rate is more significant
+
+Key Parameters
+Magnetic field: 4T
+Electron-Beam current < 1.4 A
+Current density: ~170 A/cm^2 for 300mA (stable 24/7)
+E-Beam energy < 30 keV (e.g., Ne-like U82+)
+Length of trapping region: 0.64 magnet
+Trap structure & 4K
+
+
+## With typical pulse width ("Natural" width) of ~20us, defined by time to freely exit trap, what can the instantaneous rate be? what can be achieved by elongating extraction potential?
+
+Charge Breeding Efficiencies
+Typical QA scan (all contaminants) compared to that of the charge state distrobutions of 39K or 85Rb
+ACS and SCS for 39K and 85Rb
+## Can I reproduce that charge breeding time using Lotz's formula for the cross section?
+
+
+## WHY WOULD emittance INCREASE with e-beam current?
+	Maybe if done by increasing anode, as perveance doesn't change, ridgidity of electrons would, so they'd be less compressed by magnet..
+	
