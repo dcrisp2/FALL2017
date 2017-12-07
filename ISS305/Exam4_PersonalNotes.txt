@@ -1,0 +1,57 @@
+Representativeness Heuristic
+	probability judgments are often based on how representative certain features of events are to what we already know
+PROBABILITY OF 4th child... equal as a chance of a child... however I think the chances of 4 children all being boys is pretty small compared to 3 boys and 1 girl...
+Gambler's Fallacy
+	The tendency to see links between events in the past and events in the future when the two are really independent
+Conjunction Fallacy
+	Judging that probability of (A and B) > min (Prob(A), Prob(B))
+Belief in a Just World
+
+Null Hypothesis (No Effect)
+	The data for the groups are so similar that the scores must ahve been drawn from the same population
+	often the reverse of what an experimenter actually believes
+	Researchers probably wants (and tries) to reject the null hypothesis - devil's advocate position
+Alternate Hypothesis (There's an effect)
+	The data for each group came from different populations
+	Specifies values for the parameter that are incompatible with the null hypothesis
+	A decision to reject null implies an acceptance of alternative
+	
+Causal Heuristics
+Spectacular Explanation Fallacy
+	Extraordinary events do not require extraordinary causes
+Intervention-Causation Fallacy
+	The cure doesn't prove the cause
+Insight Fallacy
+	To understand something isn't necessarily to change it
+
+Quasi-Experiments
+Grouping variable
+	Independant variable is a pre-existing 'grouping variable' and as such is not manipulated (i.e. gender, ethnicity)
+
+Experimental Designs
+Between-subjects
+	Each participant participates in one and only one condition
+Within-subjects
+	Each participant participates in all conditions
+	
+Threats to Internal Validity
+Ambiguous Temporal Precedence
+	Does causal variable come before the effect variable in time
+Selection (cohort effect)
+	Differences between groups form the start
+History
+	Events outside of the experiment may affect responses
+Maturation
+	Naturally occuring changes over time
+Regression
+	Phenomenon that if a variable is extreme on it's first measurement, it will tend to be closer to the average on its second measurement
+Attrition/Mortality
+	Some participants fail to complete the EDVs
+Testing
+	Repeated testing might influence scores
+Instrumentation
+	Change in a measuring instrument
+Additive and Interactive effects of threats to internal validity
+	More than one threat occuring
+
+
